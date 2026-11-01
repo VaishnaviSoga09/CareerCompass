@@ -1,6 +1,8 @@
 # CareerCompass – AI-Powered Career & Education Advisor
 ### Project ID: SIH25094 | Course: CSE473 – Agentic AI
 
+🚀 Live Demo: https://careercompass09.streamlit.app/
+
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)](https://streamlit.io)
 [![O*NET 28+](https://img.shields.io/badge/O*NET-Content%20Model%2028+-059669.svg)](https://www.onetcenter.org/database.html)

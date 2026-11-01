@@ -1,0 +1,257 @@
+/* CareerCompass Premium SaaS Styling */
+/* Dark Navy, White, Purple & Blue Gradient Accents */
+
+/* Hide default Streamlit sidebar multi-page links */
+[data-testid="stSidebarNav"], div[data-testid="stSidebarNav"] {
+  display: none !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --primary-navy: #0F172A;
+  --secondary-navy: #1E293B;
+  --accent-purple: #6366F1;
+  --accent-violet: #8B5CF6;
+  --accent-blue: #3B82F6;
+  --accent-cyan: #06B6D4;
+  --accent-pink: #EC4899;
+  --accent-emerald: #10B981;
+  --bg-card: #FFFFFF;
+  --bg-subtle: #F8FAFC;
+  --border-color: #E2E8F0;
+  --text-main: #0F172A;
+  --text-muted: #64748B;
+  --gradient-brand: linear-gradient(135deg, #4F46E5 0%, #7C3AED 50%, #2563EB 100%);
+  --gradient-card: linear-gradient(180deg, #FFFFFF 0%, #F8FAFC 100%);
+}
+
+html, body, [class*="css"] {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text-main);
+}
+
+/* Hero Section */
+.hero-container {
+  background: linear-gradient(135deg, #0F172A 0%, #1E1B4B 60%, #31104B 100%);
+  padding: 40px 36px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  margin-bottom: 28px;
+  box-shadow: 0 12px 36px rgba(15, 23, 42, 0.25);
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(99, 102, 241, 0.25);
+  border: 1px solid rgba(139, 92, 246, 0.5);
+  color: #E0E7FF;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 12px;
+  background: linear-gradient(90deg, #FFFFFF 0%, #C7D2FE 50%, #DDD6FE 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-subtitle {
+  font-size: 1.1rem;
+  color: #CBD5E1;
+  max-width: 760px;
+  line-height: 1.6;
+  margin-bottom: 22px;
+}
+
+/* Feature & Metric Cards */
+.metric-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s ease-in-out;
+}
+
+.metric-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(99, 102, 241, 0.12);
+  border-color: #C7D2FE;
+}
+
+.card-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+
+.card-value {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--primary-navy);
+}
+
+/* Agent Visualization Box */
+.agent-node {
+  background: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 14px;
+  padding: 16px;
+  margin-bottom: 12px;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+.agent-node.status-completed {
+  border-left: 5px solid #10B981;
+  background: #F0FDF4;
+}
+
+.agent-node.status-running {
+  border-left: 5px solid #6366F1;
+  background: #EEF2FF;
+  animation: pulse-glow 2s infinite;
+}
+
+.agent-node.status-pending {
+  border-left: 5px solid #94A3B8;
+  background: #F8FAFC;
+}
+
+@keyframes pulse-glow {
+  0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
+}
+
+.agent-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.agent-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #1E1B4B;
+}
+
+.agent-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  text-transform: uppercase;
+}
+
+.agent-badge.completed {
+  background: #DCFCE7;
+  color: #15803D;
+}
+
+.agent-badge.running {
+  background: #E0E7FF;
+  color: #4338CA;
+}
+
+.agent-badge.pending {
+  background: #F1F5F9;
+  color: #64748B;
+}
+
+/* Timeline Month Card */
+.timeline-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  border: 1px solid #E2E8F0;
+  padding: 22px;
+  margin-bottom: 18px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+  position: relative;
+}
+
+.timeline-phase-tag {
+  display: inline-block;
+  background: #EEF2FF;
+  color: #4F46E5;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+
+.timeline-month-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #0F172A;
+  margin-bottom: 10px;
+}
+
+.project-deliverable-box {
+  background: #F8FAFC;
+  border-left: 3px solid #6366F1;
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+  margin-top: 12px;
+  font-size: 0.9rem;
+}
+
+/* Custom Skill Tags */
+.skill-tag {
+  display: inline-block;
+  background: #EEF2FF;
+  color: #4338CA;
+  border: 1px solid #C7D2FE;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  margin: 3px;
+}
+
+.skill-tag.missing {
+  background: #FEF2F2;
+  color: #991B1B;
+  border-color: #FECACA;
+}
+
+.skill-tag.soft {
+  background: #FDF2F8;
+  color: #9D174D;
+  border-color: #FBCFE8;
+}
+
+/* O*NET Source Attribution */
+.onet-source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #F1F5F9;
+  border: 1px solid #CBD5E1;
+  color: #334155;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-top: 10px;
+}

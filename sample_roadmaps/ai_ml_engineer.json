@@ -1,0 +1,971 @@
+{
+  "agent": "Roadmap Planning Agent",
+  "status": "COMPLETED",
+  "student_profile": {
+    "full_name": "Aarav Sharma",
+    "education_level": "Undergraduate",
+    "degree_branch": "CSE",
+    "current_year": "3rd Year",
+    "technical_skills": [
+      "Python",
+      "SQL",
+      "NumPy"
+    ],
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "career_goal": "AI/ML Engineer",
+    "experience_level": "Beginner",
+    "learning_duration_months": 6,
+    "learning_preference": "Hands-on Projects",
+    "profile_summary": "Aarav Sharma is a 3rd Year Undergraduate student specializing in CSE with a career focus on AI/ML Engineer. Current skill set includes Python, SQL, NumPy.",
+    "identified_strengths": [
+      "Demonstrated foundational toolkit with 3 active technical skills",
+      "Established proficiency in core computer science programming language",
+      "Clear domain interest in Artificial Intelligence, Machine Learning"
+    ],
+    "areas_for_improvement": [
+      "Industry-grade project portfolio and version-controlled repository development",
+      "Systematic interview preparation and system design fundamentals"
+    ],
+    "academic_readiness_score": 70,
+    "recommended_pace": "Targeting 6 months at ~12-15 hours/week"
+  },
+  "selected_career": {
+    "onetsoc_code": "15-1221.00",
+    "title": "Computer and Information Research Scientists (AI / ML Engineer)",
+    "canonical_name": "Artificial Intelligence & Machine Learning Engineer",
+    "description": "Conduct research into fundamental computer and information science as theorists, designers, or inventors. Solve or invent solutions to problems in the field of computer hardware and software, artificial intelligence, neural networks, natural language processing, and algorithmic optimization.",
+    "job_zone": 5,
+    "median_salary_usd": 142650,
+    "compatibility_score": 81.6,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ],
+    "matched_interests": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "technology_skills": [
+      "Python",
+      "C++",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "CUDA",
+      "OpenCV",
+      "Scikit-learn",
+      "Hugging Face",
+      "Linux",
+      "Docker",
+      "Git",
+      "Distributed Computing",
+      "MLOps",
+      "Weights & Biases",
+      "Jupyter",
+      "SQL",
+      "Transformers"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Research Mindset",
+      "Communication of Complex Concepts",
+      "Persistence",
+      "Ethical AI Awareness",
+      "Collaboration"
+    ],
+    "skills": [
+      "Programming",
+      "Complex Problem Solving",
+      "Critical Thinking",
+      "Mathematics",
+      "Operations Analysis",
+      "Systems Evaluation",
+      "Science",
+      "Active Learning"
+    ],
+    "knowledge": [
+      "Computers and Electronics",
+      "Mathematics",
+      "Engineering and Technology",
+      "Statistics",
+      "Telecommunications"
+    ],
+    "abilities": [
+      "Mathematical Reasoning",
+      "Inductive Reasoning",
+      "Deductive Reasoning",
+      "Originality",
+      "Information Ordering",
+      "Category Flexibility"
+    ],
+    "work_activities": [
+      "Interacting with Computers",
+      "Analyzing Data or Information",
+      "Developing Objectives and Strategies",
+      "Updating and Using Relevant Knowledge",
+      "Thinking Creatively"
+    ],
+    "related_occupations": [
+      "15-2051.00",
+      "15-1252.00",
+      "15-1243.00",
+      "15-2041.00"
+    ],
+    "why_matched": "Strong alignment between your interest in Artificial Intelligence, Machine Learning and O*NET benchmark tasks for Artificial Intelligence & Machine Learning Engineer.",
+    "rank": 1
+  },
+  "all_recommended_careers": [
+    {
+      "onetsoc_code": "15-1221.00",
+      "title": "Computer and Information Research Scientists (AI / ML Engineer)",
+      "canonical_name": "Artificial Intelligence & Machine Learning Engineer",
+      "description": "Conduct research into fundamental computer and information science as theorists, designers, or inventors. Solve or invent solutions to problems in the field of computer hardware and software, artificial intelligence, neural networks, natural language processing, and algorithmic optimization.",
+      "job_zone": 5,
+      "median_salary_usd": 142650,
+      "compatibility_score": 81.6,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_interests": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "technology_skills": [
+        "Python",
+        "C++",
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "CUDA",
+        "OpenCV",
+        "Scikit-learn",
+        "Hugging Face",
+        "Linux",
+        "Docker",
+        "Git",
+        "Distributed Computing",
+        "MLOps",
+        "Weights & Biases",
+        "Jupyter",
+        "SQL",
+        "Transformers"
+      ],
+      "soft_skills": [
+        "Analytical Thinking",
+        "Research Mindset",
+        "Communication of Complex Concepts",
+        "Persistence",
+        "Ethical AI Awareness",
+        "Collaboration"
+      ],
+      "skills": [
+        "Programming",
+        "Complex Problem Solving",
+        "Critical Thinking",
+        "Mathematics",
+        "Operations Analysis",
+        "Systems Evaluation",
+        "Science",
+        "Active Learning"
+      ],
+      "knowledge": [
+        "Computers and Electronics",
+        "Mathematics",
+        "Engineering and Technology",
+        "Statistics",
+        "Telecommunications"
+      ],
+      "abilities": [
+        "Mathematical Reasoning",
+        "Inductive Reasoning",
+        "Deductive Reasoning",
+        "Originality",
+        "Information Ordering",
+        "Category Flexibility"
+      ],
+      "work_activities": [
+        "Interacting with Computers",
+        "Analyzing Data or Information",
+        "Developing Objectives and Strategies",
+        "Updating and Using Relevant Knowledge",
+        "Thinking Creatively"
+      ],
+      "related_occupations": [
+        "15-2051.00",
+        "15-1252.00",
+        "15-1243.00",
+        "15-2041.00"
+      ],
+      "why_matched": "Strong alignment between your interest in Artificial Intelligence, Machine Learning and O*NET benchmark tasks for Artificial Intelligence & Machine Learning Engineer.",
+      "rank": 1
+    },
+    {
+      "onetsoc_code": "15-2051.00",
+      "title": "Data Scientists",
+      "canonical_name": "Data Scientist",
+      "description": "Develop and implement a set of techniques or analytics applications to transform raw data into meaningful information using statistical analysis, machine learning algorithms, and data modeling to solve business and scientific problems.",
+      "job_zone": 5,
+      "median_salary_usd": 108020,
+      "compatibility_score": 64.6,
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "NumPy"
+      ],
+      "matched_interests": [
+        "Machine Learning"
+      ],
+      "technology_skills": [
+        "Python",
+        "SQL",
+        "R",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow",
+        "Apache Spark",
+        "Jupyter",
+        "Tableau",
+        "Power BI",
+        "Docker",
+        "Git",
+        "AWS",
+        "Statistical Modeling",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "soft_skills": [
+        "Data Storytelling",
+        "Business Acumen",
+        "Problem Formulation",
+        "Curiosity",
+        "Stakeholder Communication",
+        "Teamwork"
+      ],
+      "skills": [
+        "Mathematics",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Programming",
+        "Systems Analysis",
+        "Science",
+        "Active Learning",
+        "Reading Comprehension"
+      ],
+      "knowledge": [
+        "Mathematics",
+        "Computers and Electronics",
+        "Statistics",
+        "Engineering and Technology",
+        "Administration and Management"
+      ],
+      "abilities": [
+        "Mathematical Reasoning",
+        "Deductive Reasoning",
+        "Inductive Reasoning",
+        "Information Ordering",
+        "Fluency of Ideas"
+      ],
+      "work_activities": [
+        "Analyzing Data or Information",
+        "Processing Information",
+        "Thinking Creatively",
+        "Working with Computers",
+        "Updating and Using Relevant Knowledge"
+      ],
+      "related_occupations": [
+        "15-1221.00",
+        "15-1252.00",
+        "15-2051.01",
+        "15-2041.00"
+      ],
+      "why_matched": "Strong alignment between your interest in Artificial Intelligence, Machine Learning and O*NET benchmark tasks for Data Scientist.",
+      "rank": 2
+    },
+    {
+      "onetsoc_code": "15-1252.00",
+      "title": "Software Developers",
+      "canonical_name": "Software Developer / Engineer",
+      "description": "Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.",
+      "job_zone": 4,
+      "median_salary_usd": 132270,
+      "compatibility_score": 48.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "matched_interests": [],
+      "technology_skills": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "REST APIs",
+        "Git",
+        "PostgreSQL",
+        "MySQL",
+        "Docker",
+        "Linux",
+        "Microservices",
+        "Spring Boot",
+        "Data Structures & Algorithms",
+        "CI/CD",
+        "Redis"
+      ],
+      "soft_skills": [
+        "Code Craftsmanship",
+        "Agile Collaboration",
+        "Attention to Detail",
+        "Continuous Learning",
+        "Empathy for End-Users"
+      ],
+      "skills": [
+        "Programming",
+        "Complex Problem Solving",
+        "Systems Analysis",
+        "Critical Thinking",
+        "Operations Analysis",
+        "Active Learning",
+        "Troubleshooting"
+      ],
+      "knowledge": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Mathematics",
+        "Design",
+        "English Language"
+      ],
+      "abilities": [
+        "Information Ordering",
+        "Deductive Reasoning",
+        "Problem Sensitivity",
+        "Written Comprehension",
+        "Mathematical Reasoning"
+      ],
+      "work_activities": [
+        "Working with Computers",
+        "Developing Objectives and Strategies",
+        "Thinking Creatively",
+        "Updating and Using Relevant Knowledge",
+        "Evaluating Information"
+      ],
+      "related_occupations": [
+        "15-1251.00",
+        "15-1253.00",
+        "15-1299.08",
+        "15-1254.00"
+      ],
+      "why_matched": "Strong alignment between your interest in Artificial Intelligence, Machine Learning and O*NET benchmark tasks for Software Developer / Engineer.",
+      "rank": 3
+    },
+    {
+      "onetsoc_code": "15-1299.08",
+      "title": "Computer Systems Engineers/Architects",
+      "canonical_name": "Cloud Engineer / DevOps Architect",
+      "description": "Design and develop solutions to complex applications problems, system administration issues, or network concerns. Perform systems management and integration functions, architecting cloud computing environments and infrastructure automation pipelines.",
+      "job_zone": 4,
+      "median_salary_usd": 127260,
+      "compatibility_score": 48.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "matched_interests": [],
+      "technology_skills": [
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Linux",
+        "Python",
+        "Bash",
+        "CI/CD",
+        "Ansible",
+        "Jenkins",
+        "Prometheus",
+        "Grafana",
+        "Networking (VPC, DNS, Load Balancers)",
+        "Git"
+      ],
+      "soft_skills": [
+        "Reliability Mindset",
+        "Disaster Recovery Planning",
+        "Cross-Functional Collaboration",
+        "Root Cause Analysis",
+        "Clear Technical Documentation"
+      ],
+      "skills": [
+        "Systems Analysis",
+        "Systems Evaluation",
+        "Technology Design",
+        "Complex Problem Solving",
+        "Troubleshooting",
+        "Programming",
+        "Critical Thinking"
+      ],
+      "knowledge": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Telecommunications",
+        "Mathematics",
+        "Administration and Management"
+      ],
+      "abilities": [
+        "Deductive Reasoning",
+        "Problem Sensitivity",
+        "Information Ordering",
+        "Systems Perception",
+        "Inductive Reasoning"
+      ],
+      "work_activities": [
+        "Working with Computers",
+        "Analyzing Data or Information",
+        "Guiding and Directing Subordinates",
+        "Thinking Creatively",
+        "Documenting/Recording Information"
+      ],
+      "related_occupations": [
+        "15-1252.00",
+        "15-1241.00",
+        "15-1212.00",
+        "15-1244.00"
+      ],
+      "why_matched": "Strong alignment between your interest in Artificial Intelligence, Machine Learning and O*NET benchmark tasks for Cloud Engineer / DevOps Architect.",
+      "rank": 4
+    },
+    {
+      "onetsoc_code": "15-1212.00",
+      "title": "Information Security Analysts",
+      "canonical_name": "Cybersecurity Analyst / Security Engineer",
+      "description": "Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for risks and propose and implement security and compliance strategies.",
+      "job_zone": 4,
+      "median_salary_usd": 120360,
+      "compatibility_score": 48.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "matched_interests": [],
+      "technology_skills": [
+        "Wireshark",
+        "Nmap",
+        "Metasploit",
+        "Linux",
+        "Python",
+        "Bash",
+        "Burp Suite",
+        "Splunk",
+        "SIEM",
+        "Cryptography",
+        "TCP/IP Protocols",
+        "Firewalls",
+        "OWASP Top 10",
+        "Vulnerability Assessment",
+        "Identity & Access Management (IAM)"
+      ],
+      "soft_skills": [
+        "High Integrity",
+        "Vigilance",
+        "Crisis Management",
+        "Adversarial Thinking",
+        "Ethical Decision Making"
+      ],
+      "skills": [
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Systems Evaluation",
+        "Systems Analysis",
+        "Active Learning",
+        "Troubleshooting",
+        "Monitoring"
+      ],
+      "knowledge": [
+        "Computers and Electronics",
+        "Telecommunications",
+        "Law and Government",
+        "Public Safety and Security",
+        "Engineering and Technology"
+      ],
+      "abilities": [
+        "Problem Sensitivity",
+        "Deductive Reasoning",
+        "Inductive Reasoning",
+        "Information Ordering",
+        "Flexibility of Closure"
+      ],
+      "work_activities": [
+        "Identifying Information",
+        "Working with Computers",
+        "Analyzing Data or Information",
+        "Communicating with Supervisors",
+        "Evaluating Information"
+      ],
+      "related_occupations": [
+        "15-1244.00",
+        "15-1241.00",
+        "15-1299.08",
+        "15-1252.00"
+      ],
+      "why_matched": "Strong alignment between your interest in Artificial Intelligence, Machine Learning and O*NET benchmark tasks for Cybersecurity Analyst / Security Engineer.",
+      "rank": 5
+    }
+  ],
+  "skill_gap_analysis": {
+    "target_career": "Computer and Information Research Scientists (AI / ML Engineer)",
+    "onetsoc_code": "15-1221.00",
+    "existing_matching_skills": [
+      "Python",
+      "SQL"
+    ],
+    "missing_technical_skills": [
+      {
+        "skill": "C++",
+        "level": "Advanced",
+        "priority": "High",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "PyTorch",
+        "level": "Advanced",
+        "priority": "High",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "TensorFlow",
+        "level": "Advanced",
+        "priority": "High",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Keras",
+        "level": "Advanced",
+        "priority": "Medium",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "CUDA",
+        "level": "Advanced",
+        "priority": "Medium",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "OpenCV",
+        "level": "Advanced",
+        "priority": "Medium",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Scikit-learn",
+        "level": "Advanced",
+        "priority": "Medium",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Hugging Face",
+        "level": "Advanced",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Linux",
+        "level": "Beginner",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Docker",
+        "level": "Intermediate",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Git",
+        "level": "Beginner",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Distributed Computing",
+        "level": "Advanced",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "MLOps",
+        "level": "Advanced",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Weights & Biases",
+        "level": "Advanced",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Jupyter",
+        "level": "Advanced",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      },
+      {
+        "skill": "Transformers",
+        "level": "Advanced",
+        "priority": "Low",
+        "relevance": "Key component for Computer and Information Research Scientists (AI / ML Engineer) industry competence."
+      }
+    ],
+    "missing_soft_skills": [
+      {
+        "skill": "Analytical Thinking",
+        "priority": "High",
+        "relevance": "Essential workplace dynamic for Computer and Information Research Scientists (AI / ML Engineer) teams."
+      },
+      {
+        "skill": "Research Mindset",
+        "priority": "Medium",
+        "relevance": "Essential workplace dynamic for Computer and Information Research Scientists (AI / ML Engineer) teams."
+      },
+      {
+        "skill": "Communication of Complex Concepts",
+        "priority": "Medium",
+        "relevance": "Essential workplace dynamic for Computer and Information Research Scientists (AI / ML Engineer) teams."
+      },
+      {
+        "skill": "Persistence",
+        "priority": "Medium",
+        "relevance": "Essential workplace dynamic for Computer and Information Research Scientists (AI / ML Engineer) teams."
+      },
+      {
+        "skill": "Ethical AI Awareness",
+        "priority": "Medium",
+        "relevance": "Essential workplace dynamic for Computer and Information Research Scientists (AI / ML Engineer) teams."
+      },
+      {
+        "skill": "Collaboration",
+        "priority": "Medium",
+        "relevance": "Essential workplace dynamic for Computer and Information Research Scientists (AI / ML Engineer) teams."
+      }
+    ],
+    "overall_gap_level": "Moderate",
+    "total_skills_required": 18,
+    "total_skills_matched": 2,
+    "gap_percentage": 88.9
+  },
+  "learning_recommendations": {
+    "strategy_summary": "Structured progressive path focusing on closing core gaps in C++, PyTorch, TensorFlow via verified courseware and practical project application.",
+    "recommended_courses": [
+      {
+        "id": "crs_cs50_01",
+        "title": "CS50x: Introduction to Computer Science",
+        "provider": "Harvard University / edX",
+        "instructor": "Prof. David J. Malan",
+        "skills": [
+          "C",
+          "Python",
+          "SQL",
+          "Data Structures",
+          "Algorithms",
+          "HTML",
+          "CSS"
+        ],
+        "level": "Beginner to Intermediate",
+        "type": "Free Courseware",
+        "duration_weeks": 10,
+        "url": "https://cs50.harvard.edu/x/",
+        "rating": 4.9,
+        "description": "Harvard University's legendary introduction to the intellectual enterprises of computer science and the art of programming.",
+        "relevance_score": 8.49,
+        "matched_missing_skills": []
+      },
+      {
+        "id": "crs_data_google_01",
+        "title": "Google Data Analytics Professional Certificate",
+        "provider": "Coursera / Google",
+        "instructor": "Google Career Certificates",
+        "skills": [
+          "Data Analysis",
+          "SQL",
+          "Tableau",
+          "R",
+          "Spreadsheets",
+          "Data Cleaning"
+        ],
+        "level": "Beginner",
+        "type": "Paid Certificate / Financial Aid Available",
+        "duration_weeks": 16,
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "rating": 4.8,
+        "description": "Gain in-demand skills for junior data analyst roles using spreadsheets, SQL, Tableau, and R.",
+        "relevance_score": 8.48,
+        "matched_missing_skills": []
+      },
+      {
+        "id": "crs_dl_spec_01",
+        "title": "Deep Learning Specialization",
+        "provider": "Coursera / DeepLearning.AI",
+        "instructor": "Andrew Ng, Younes Bensouda Mourri, Kian Katanforoosh",
+        "skills": [
+          "Deep Learning",
+          "PyTorch",
+          "TensorFlow",
+          "Neural Networks",
+          "CNN",
+          "RNN",
+          "Transformers"
+        ],
+        "level": "Advanced",
+        "type": "Free / Audit or Paid Certificate",
+        "duration_weeks": 12,
+        "url": "https://www.coursera.org/specializations/deep-learning",
+        "rating": 4.9,
+        "description": "Build and train neural networks, CNNs, RNNs, and attention mechanisms for computer vision and NLP applications.",
+        "relevance_score": 3.49,
+        "matched_missing_skills": [
+          "PyTorch",
+          "TensorFlow",
+          "Transformers"
+        ]
+      },
+      {
+        "id": "crs_odin_01",
+        "title": "The Odin Project: Foundations & Full Stack",
+        "provider": "The Odin Project Open Source",
+        "instructor": "Open Source Community",
+        "skills": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Git",
+          "Node.js",
+          "PostgreSQL"
+        ],
+        "level": "Beginner to Intermediate",
+        "type": "100% Free Open Source",
+        "duration_weeks": 16,
+        "url": "https://www.theodinproject.com/",
+        "rating": 4.9,
+        "description": "Hands-on, project-based curriculum designed to take beginners to job-ready full stack developers.",
+        "relevance_score": 1.99,
+        "matched_missing_skills": [
+          "Git"
+        ]
+      },
+      {
+        "id": "crs_cyber_tryhackme_01",
+        "title": "Pre-Security & Complete Beginner Path",
+        "provider": "TryHackMe",
+        "instructor": "TryHackMe Labs",
+        "skills": [
+          "Linux",
+          "Networking",
+          "Web Fundamentals",
+          "Nmap",
+          "Burp Suite",
+          "Ethical Hacking"
+        ],
+        "level": "Beginner to Intermediate",
+        "type": "Freemium Interactive Labs",
+        "duration_weeks": 8,
+        "url": "https://tryhackme.com/path/outline/presecurity",
+        "rating": 4.9,
+        "description": "Hands-on, browser-based cybersecurity labs covering computer networking basics, Linux CLI, and fundamental security vulnerabilities.",
+        "relevance_score": 1.99,
+        "matched_missing_skills": [
+          "Linux"
+        ]
+      },
+      {
+        "id": "crs_ml_spec_01",
+        "title": "Machine Learning Specialization",
+        "provider": "Coursera / DeepLearning.AI & Stanford",
+        "instructor": "Andrew Ng",
+        "skills": [
+          "Machine Learning",
+          "Python",
+          "NumPy",
+          "Scikit-learn",
+          "Supervised Learning",
+          "Unsupervised Learning"
+        ],
+        "level": "Intermediate",
+        "type": "Free / Audit or Paid Certificate",
+        "duration_weeks": 12,
+        "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "rating": 4.9,
+        "description": "Foundational program created by Andrew Ng covering regression, classification, neural networks, decision trees, and reinforcement learning.",
+        "relevance_score": 1.49,
+        "matched_missing_skills": [
+          "Scikit-learn"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "title": "DeepLearning.AI Machine Learning Specialization",
+        "issuer": "DeepLearning.AI & Stanford",
+        "cost": "Free Audit / Paid Cert",
+        "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+      },
+      {
+        "title": "Meta Back-End Developer Professional Certificate",
+        "issuer": "Meta",
+        "cost": "Financial Aid / Sub",
+        "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer"
+      },
+      {
+        "title": "AWS Certified Cloud Practitioner",
+        "issuer": "Amazon Web Services",
+        "cost": "Paid Exam",
+        "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+      }
+    ],
+    "learning_preference_applied": "Hands-on Projects",
+    "free_vs_paid_ratio": "65% Free / 35% Certified"
+  },
+  "roadmap_title": "Mastery Roadmap: Artificial Intelligence & Machine Learning Engineer (6 Months)",
+  "phases_summary": [
+    {
+      "phase_number": 1,
+      "phase_name": "Phase 1: Foundation",
+      "focus": "Syntax, core programming, computer science principles & version control"
+    },
+    {
+      "phase_number": 2,
+      "phase_name": "Phase 2: Core Skills",
+      "focus": "Essential domain libraries, relational databases, data pipelines & algorithms"
+    },
+    {
+      "phase_number": 3,
+      "phase_name": "Phase 3: Advanced Skills",
+      "focus": "Specialized frameworks, architecture design, cloud deployment & optimization"
+    },
+    {
+      "phase_number": 4,
+      "phase_name": "Phase 4: Projects & Practical Experience",
+      "focus": "End-to-end capstone systems, production CI/CD, documentation & testing"
+    },
+    {
+      "phase_number": 5,
+      "phase_name": "Phase 5: Internship & Job Preparation",
+      "focus": "Technical interviews, LeetCode problem solving, resume refinement & mock interviews"
+    }
+  ],
+  "timeline": [
+    {
+      "month": 1,
+      "phase": "Phase 1: Foundation",
+      "phase_number": 1,
+      "title": "Core Foundations & Tooling",
+      "action_items": [
+        "Master advanced Python fundamentals: decorators, generators, and object-oriented design.",
+        "Review linear algebra & matrix operations with NumPy and vectorization exercises.",
+        "Set up Git, GitHub repository workflow, and clean virtual environment isolation.",
+        "Solve 20 practice algorithmic problems on arrays, dictionaries, and string manipulation."
+      ],
+      "project_outcome": "CLI Numerical Matrix Engine & Algorithmic Problem Solver",
+      "milestones": [
+        "Environment configured",
+        "20 DSA problems solved",
+        "Initial GitHub repository launched"
+      ]
+    },
+    {
+      "month": 2,
+      "phase": "Phase 2: Core Skills",
+      "phase_number": 2,
+      "title": "Core Domain Systems & Data Pipelines",
+      "action_items": [
+        "Master exploratory data analysis (EDA) with Pandas, Matplotlib, and Seaborn.",
+        "Write complex SQL queries (multi-table JOINs, Window functions, aggregations) for analytics.",
+        "Clean, impute, and preprocess real-world tabular datasets from Kaggle.",
+        "Build statistical hypotheses testing and correlation analysis pipelines."
+      ],
+      "project_outcome": "Interactive Exploratory Data Analytics Dashboard on Real-World Datasets",
+      "milestones": [
+        "Core API / Pipeline operational",
+        "Database integration complete",
+        "30 LeetCode problems completed"
+      ]
+    },
+    {
+      "month": 3,
+      "phase": "Phase 3: Advanced Skills",
+      "phase_number": 3,
+      "title": "Advanced Frameworks & Architecture",
+      "action_items": [
+        "Implement classical machine learning algorithms from scratch: Linear/Logistic Regression, Decision Trees.",
+        "Master Scikit-learn pipelines: Feature scaling, cross-validation, hyperparameter tuning (GridSearchCV).",
+        "Study model evaluation metrics: ROC-AUC, Precision-Recall, F1-Score, and Confusion Matrix.",
+        "Deploy a trained Scikit-learn classification model via a lightweight FastAPI REST microservice."
+      ],
+      "project_outcome": "End-to-End Machine Learning Prediction Web Service with Live Scoring",
+      "milestones": [
+        "Advanced framework operational",
+        "Integration testing suite running",
+        "Clean API contract verified"
+      ]
+    },
+    {
+      "month": 4,
+      "phase": "Phase 4: Projects and Practical Experience",
+      "phase_number": 4,
+      "title": "Comprehensive Capstone Portfolio Project",
+      "action_items": [
+        "Deep dive into Neural Networks and Deep Learning using PyTorch.",
+        "Train convolutional neural networks (CNNs) for vision or fine-tune Transformers with Hugging Face.",
+        "Implement MLOps practices: Model tracking with MLflow/Weights & Biases and Dockerized inference.",
+        "Package the solution with an interactive Streamlit UI and comprehensive documentation."
+      ],
+      "project_outcome": "Production-Grade AI Capstone System with PyTorch, MLOps Tracking & Streamlit UI",
+      "milestones": [
+        "Live production deployment",
+        "GitHub README with video demo",
+        "100% test coverage for critical paths"
+      ]
+    },
+    {
+      "month": 5,
+      "phase": "Phase 5: Internship and Job Preparation",
+      "phase_number": 5,
+      "title": "Technical Interviews & Placement Preparation",
+      "action_items": [
+        "Complete targeted LeetCode Top 75 / Blind 75 questions (Focus on Graphs, DP, Trees).",
+        "Practice mock technical interviews with peers or platforms like Pramp / Interviewing.io.",
+        "Format resume using standard single-page tech format highlighting measurable project impacts.",
+        "Draft clear answers to behavioral questions using the STAR (Situation, Task, Action, Result) method."
+      ],
+      "project_outcome": "Polished Industry Resume, Portfolio Website, and Interview Preparation Notes",
+      "milestones": [
+        "50+ LeetCode Mediums solved",
+        "3 mock interviews conducted",
+        "Resume peer-reviewed"
+      ]
+    },
+    {
+      "month": 6,
+      "phase": "Phase 5: Internship and Job Preparation",
+      "phase_number": 5,
+      "title": "Internship Outreach & Job Placement Drives",
+      "action_items": [
+        "Apply to 20-30 curated internship and junior engineering openings across LinkedIn, Wellfound, and campus drives.",
+        "Engage in targeted professional outreach to hiring managers and tech alumni.",
+        "Complete company take-home coding assessments and system architecture design challenges.",
+        "Conduct continuous mock HR and managerial interviews to master salary and offer negotiation."
+      ],
+      "project_outcome": "Active Placement Pipeline & Internship / Junior Role Offers",
+      "milestones": [
+        "Applications submitted",
+        "Interview calls secured",
+        "Offer negotiation preparation"
+      ]
+    }
+  ],
+  "saved_db_id": 1,
+  "student_id": 1
+}
